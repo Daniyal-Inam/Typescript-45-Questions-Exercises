@@ -1,6 +1,5 @@
 "use strict";
 //Task no 26
-Object.defineProperty(exports, "__esModule", { value: true });
 let alien_color = 'green';
 //write an if-else chain, If the alien’s color is green, print a statement that 
 //the player just earned 5 points for shooting the alien.

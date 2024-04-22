@@ -1,6 +1,5 @@
 "use strict";
 //Task no 29
-Object.defineProperty(exports, "__esModule", { value: true });
 //Make a array of your three favorite fruits and call it favorite_fruits.
 let favorite_fruits = ["mango", "banana", "pineapple"];
 //Write five if statements. Each should check whether a certain kind of fruit

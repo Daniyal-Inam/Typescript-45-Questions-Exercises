@@ -1,6 +1,5 @@
 "use strict";
 //Task no 34
-Object.defineProperty(exports, "__esModule", { value: true });
 //Think of at least three kinds of your favorite pizza. Store these pizza names
 //in a array,
 let pizzas = ["fajita", "tikka", "malai boti"];

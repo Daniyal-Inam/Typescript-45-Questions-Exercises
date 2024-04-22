@@ -1,6 +1,5 @@
 "use strict";
 //Task no 40
-Object.defineProperty(exports, "__esModule", { value: true });
 // Album: Write a function called make_album() that builds a Object describing
 //a music album. The function should take in an artist name and an album title,
 //and it should return a Object containing these two pieces of information. Use

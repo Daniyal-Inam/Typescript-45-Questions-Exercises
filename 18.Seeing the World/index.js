@@ -1,6 +1,5 @@
 "use strict";
 //Task no 18
-Object.defineProperty(exports, "__esModule", { value: true });
 let vistCountry = ["Saudi Arabia", "Turkey", "Dubai", "China", "Malaysia"];
 //Print array in its original order.
 console.log("original order: ", vistCountry);

@@ -1,6 +1,5 @@
 "use strict";
 //Task no 16
-Object.defineProperty(exports, "__esModule", { value: true });
 //Start with your program from Exercise 15.
 let guestList = ["Arsal", "Wahib", "Nabeel", "Zafeer"];
 //name of the guest who can’t make it to the dinner.

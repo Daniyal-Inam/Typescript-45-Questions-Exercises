@@ -1,6 +1,5 @@
 "use strict";
 //Task no 10
-Object.defineProperty(exports, "__esModule", { value: true });
 //author : [Dniyal Inam]
 //dated : [Sunday, March 10, 2024]
 //This is my name.

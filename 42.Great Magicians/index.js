@@ -1,6 +1,5 @@
 "use strict";
 //Task no 42
-Object.defineProperty(exports, "__esModule", { value: true });
 //Great Magicians: Start with a copy of your program from Exercise 41. Write
 //a function called make_great() that modifies the array of magicians by adding
 //the phrase the Great to each magician’s name. Call show_magicians() to see

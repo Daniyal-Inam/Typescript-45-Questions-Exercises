@@ -1,6 +1,5 @@
 "use strict";
 //Task no 28
-Object.defineProperty(exports, "__esModule", { value: true });
 //Set a value for the variable age
 let age = 27;
 //1. If the person is less than 2 years old, print a message that the person is

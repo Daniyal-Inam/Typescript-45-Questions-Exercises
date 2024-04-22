@@ -1,6 +1,5 @@
 "use strict";
 //Task no 32
-Object.defineProperty(exports, "__esModule", { value: true });
 //Make a list of five or more usernames called current_users.
 let current_users = [
     "daNiyal",

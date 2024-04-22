@@ -1,6 +1,5 @@
 "use strict";
 //Task no 17
-Object.defineProperty(exports, "__esModule", { value: true });
 //Initial list of guests
 let guest = ["Dayan", "Kabir", "Wahib", "Arsalan", "Nabeel", "Zafeer", "Afnan"];
 //Informing that only two people can be invited  

@@ -1,6 +1,5 @@
 "use strict";
 //Task no 33
-Object.defineProperty(exports, "__esModule", { value: true });
 //Store the numbers 1 through 9 in a array.
 let ordinalNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 //Loop through the array.

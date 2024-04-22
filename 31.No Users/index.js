@@ -1,6 +1,5 @@
 "use strict";
 //Task no 31
-Object.defineProperty(exports, "__esModule", { value: true });
 // No Users: Add an if test to Exercise 30 to make sure the list of users is
 // not empty.
 let userNames = [

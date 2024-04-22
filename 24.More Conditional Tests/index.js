@@ -1,6 +1,5 @@
 "use strict";
 //Task no 24
-Object.defineProperty(exports, "__esModule", { value: true });
 let name1 = "Daniyal";
 let name2 = "Inam";
 let name3 = "Daniyal Inam";
